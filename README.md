@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ravikiran Kampilla's Portfolio
 
 ## Project info
@@ -57,3 +58,6 @@ This project can be deployed to any static hosting service like:
 - Firebase Hosting
 
 Follow the hosting provider's documentation for deploying a Vite + React application.
+=======
+# portfolio
+>>>>>>> 2238ff47b3ba44450a0d947a136b1e2b6f610f82
