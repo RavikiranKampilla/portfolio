@@ -20,7 +20,7 @@ export const Hero = () => {
           </h1>
           
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            Computer Science Student at KL University Hyderabad | Passionate about Technology & Innovation | Class of 2027
+            Computer Science Student at KL University Hyderabad | Passionate about Technology & Innovation | Class of 2023
           </p>
           
           <div className="flex justify-center space-x-6 mb-8">
